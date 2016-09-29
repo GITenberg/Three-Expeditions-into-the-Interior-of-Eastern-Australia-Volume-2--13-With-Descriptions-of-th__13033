@@ -1,0 +1,30 @@
+_repo: Three-Expeditions-into-the-Interior-of-Eastern-Australia-Volume-2--13-With-Descriptions-of-th__13033
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mitchell, T. L. (Thomas Livingstone)
+    alias: Mitchell, Thomas Livingstone, Sir
+    birthdate: 1792
+    deathdate: 1855
+    gutenberg_agent_id: '3213'
+    url: http://www.gutenberg.org/2009/agents/3213
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Mitchell
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2004-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13033'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DU'
+- !lcsh 'Australia -- Discovery and exploration'
+- !lcsh 'Mitchell, T. L. (Thomas Livingstone), 1792-1855'
+- GITenberg
+title: "Three Expeditions into the Interior of Eastern Australia, Volume 2\r\nWith\
+  \ Descriptions of the Recently Explored Region of Australia Felix, and of the Present\
+  \ Colony of New South Wales"
+url: http://www.gutenberg.org/ebooks/13033
